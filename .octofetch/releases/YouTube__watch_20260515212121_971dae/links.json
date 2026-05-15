@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7974",
+  "folder": "YouTube__watch_20260515212121_971dae",
+  "base_name": "6yZWLV-vT5o_6yZWLV-vT5o_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/ialiataei/Cloud-Downloads-1/releases/tag/co-releases-v1-7974",
+  "files": [
+    {
+      "name": "6yZWLV-vT5o_6yZWLV-vT5o_720p.mp4",
+      "url": "https://github.com/ialiataei/Cloud-Downloads-1/releases/download/co-releases-v1-7974/6yZWLV-vT5o_6yZWLV-vT5o_720p.mp4",
+      "api_url": "https://api.github.com/repos/ialiataei/Cloud-Downloads-1/releases/assets/421323458",
+      "id": 421323458,
+      "size": 180759342,
+      "download_count": 0
+    }
+  ]
+}
